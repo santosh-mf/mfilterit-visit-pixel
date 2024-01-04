@@ -15,5 +15,5 @@
 homepage: "https://www.mfilterit.com"
 documentation: "https://www.mfilterit.com/resources/integration-steps"
 versions:
-  - sha: 4b0b4f76b9c6e45403c7e08ce5e3391f317b5021
+  - sha: f4f956387412737898d35c279fba5501472b8b3b
     changeNotes: Initial Version
